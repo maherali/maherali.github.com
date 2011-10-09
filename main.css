@@ -65,7 +65,7 @@ a:hover, a:active, a:focus { /* this group of selectors will give a keyboard nav
 .sidebar1 {
 	float: left;
 	width: 180px;
-	background: #EADCAE;
+	background: #ffffff;
 	padding-bottom: 10px;
 }
 .content {
@@ -84,7 +84,7 @@ a:hover, a:active, a:focus { /* this group of selectors will give a keyboard nav
 ul.nav {
 	list-style: none; /* this removes the list marker */
 	border-top: 1px solid #666; /* this creates the top border for the links - all others are placed using a bottom border on the LI */
-	margin-bottom: 15px; /* this creates the space between the navigation on the content below */
+	margin-bottom: 16px; /* this creates the space between the navigation on the content below */
 }
 ul.nav li {
 	border-bottom: 1px solid #666; /* this creates the button separation */
